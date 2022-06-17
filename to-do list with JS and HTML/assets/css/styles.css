@@ -1,0 +1,11 @@
+body {
+    color: blue;
+}
+
+.checkbox-item:checked + span {
+    text-decoration: line-through;
+}
+
+.list-item {
+    display: block;
+}
