@@ -25,3 +25,10 @@ A script that runs an Array of Objects and returns only the names of students ab
 - You can change the person object to see how the script works.
 - You can also change the years variable to get different results.
 - You can comment the 'call' or 'apply' methods to test both while calling the function. They give the same result.
+
+### object oriented JS
+A study of Object Oriented programming using JavaScript.
+- Browse to the ```dio-first-challenge\object oriented JS``` on your file explorer.
+- Run ```index.html``` on your Browser (I used Google Chrome).
+- Use ```Ctrl + Shift + i``` to open Browser's console.
+- Create new 'banck accounts' objects and use the methods.
