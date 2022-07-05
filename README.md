@@ -32,3 +32,9 @@ A study of Object Oriented programming using JavaScript.
 - Run ```index.html``` on your Browser (I used Google Chrome).
 - Use ```Ctrl + Shift + i``` to open Browser's console.
 - Create new 'banck accounts' objects and use the methods.
+
+### memory game
+A JS + HTML + CSS project based on a Memory Game.
+- Browse to the ```dio-first-challenge\memory game``` on your file explorer.
+- Run ```index.html``` on your Browser (I used Google Chrome).
+- Click on the Cards to play the Game :)
