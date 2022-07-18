@@ -1,0 +1,39 @@
+.user-container {
+    width: 100%;
+    margin: 20px 0px;
+    padding: 10px 0px;
+    border: 1px solid var(--secondary);
+    border-radius: 5px;
+}
+
+.user-pic {
+    width: 20%;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+.user-pic img {
+    border-radius: 50%;
+    width: 150px;
+    max-height: 150px;
+}
+
+.user-info {
+    width: 80%;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.user-info h3 a {
+    text-decoration: none;
+    font-size: small;
+}
+
+.user-badges {
+    width: 45%;
+}
+.user-badges h5 {
+    margin: 0px 10px 0px 0px;
+    display: inline-block;
+}

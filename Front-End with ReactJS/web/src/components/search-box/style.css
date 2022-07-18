@@ -1,0 +1,31 @@
+header {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.input {
+    height: 27px;
+    padding: 3px;
+    width: 40%;
+    margin-right: 10px;
+}
+
+.btn,
+.btn:focus,
+.btn:active {
+    width: 10%;
+    background: var(--primary);
+    color: var(--light);
+    text-decoration: none;
+    padding: 3px;
+    cursor: pointer;
+    border: 1px solid var(--light);
+    height: 27px;
+}
+.btn:hover {
+    background: var(--light);
+    color: var(--primary);
+    border: 1px solid var(--primary);
+    cursor: pointer;
+}

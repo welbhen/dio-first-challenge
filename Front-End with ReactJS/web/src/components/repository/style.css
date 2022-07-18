@@ -1,0 +1,15 @@
+.repo-element {
+    width: 250px;
+    height: 100px;
+    background-color: inherit;
+    border: 1px solid var(--primary);
+    display: inline-block;
+    overflow: hidden;
+    font-size: 1.2vw;
+    margin: 10px 10px;
+    text-align: left;
+    padding: 5px;
+}
+.repo-element small {
+    font-size: 1.0vw;
+}

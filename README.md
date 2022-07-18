@@ -45,3 +45,9 @@ An application that emulates a food-service counter with react components and ho
 - Open the ```steps.md``` file to see what was covered on this class.
 - Open the ```dio-tqi-fullstack-bootcamp-challenges\react-studies\hooks-class``` dir on your terminal.
 - Run ```npm start``` to start the project on http://localhost:3000/.
+
+### Front-End with ReactJS
+An application created with react components and react hooks.
+- Browse to the ```dio-tqi-fullstack-bootcamp-challenges\Front-End with ReactJS\web``` dir on your terminal.
+- Run ```npm start``` to start the project on http://localhost:3000/.
+- Enter a valid GitHub username to see the user's profile, info and repositores.
