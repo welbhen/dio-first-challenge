@@ -80,3 +80,10 @@ An application created with react components and react hooks.
 - Change ```urlConnection``` variable in ```StudentDAO.java``` to your personal MySQL configs.
 - Uncomment the desired queries to see the results.
 - Run the ```QueriesExecution.java``` class.
+
+#### digitalbank
+
+Digital Bank Challenge.
+
+- Create ```Accounts``` and ```Clients``` and use the methods ```Withdraw, Deposit and Transfer``` inside ```Main.java```.
+- Run the ```Main.java``` class to see the results.
